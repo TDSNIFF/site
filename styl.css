@@ -1,0 +1,124 @@
+body {
+	background-color: black;
+}
+.rapper {
+	display: flex;
+	justify-content:space-between;
+	color: white;
+}
+
+.header {
+	position: fixed;
+	width: 100%;
+	right: 20px;
+	top: 20px;
+	left: 20px;
+}
+
+.menu_header {
+	display: flex;
+}
+
+.puk_menu {
+	display: flex;
+}
+.knopka {
+	text-align:right;
+	background-color:black;
+}
+.knopka a{
+	color:white;
+}
+.welcumtext {
+	color: white;
+	font-size: 1.5em;
+	max-width: 500px;
+	position: absolute;
+	left: 37%;
+	bottom: 60%;
+	text-shadow: 2px 3px 4px #000000;
+}
+.button {
+	color:black;
+	background-color:white;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 44%;
+	bottom: 45%;
+	vertical-align: middle;
+	display: flex;
+}
+.div1 {
+	background-color: yellow;
+	color: white;
+	margin-left: 25px;
+	margin-bottom: 250px;
+}
+.div2 {
+	background-color: green;
+	color: purple;
+	margin-left: 25px;
+	margin-bottom: 125px;
+	margin-top: 125px;
+}
+.div3 {
+	background-color: brown;
+	color: red;
+	margin-top: 250px;
+}
+.a {
+	display: flex;
+}
+.section {
+	background-image:url(png/mncrftfon.png);
+	color: white;
+	text-align: center;
+}
+.blok {
+	display: flex;
+	margin-left: 100px;
+	justify-content: center;
+}
+
+.pynkts {
+	margin-left: 100px;
+	max-width: 500px;
+}
+.zeml {
+	display: flex;
+	margin-top: 20px;
+}
+.odin { 
+	text-align: middle;
+
+}
+.zagolovok {
+	max-width: 700px;
+	max-height:500px;
+	color: white;
+	font-size: 60px;
+	background-color: orange;
+	position: fixed;
+	top: 100px;
+	overflow: scroll;
+}
+.forma {
+	width: 500px;
+	color: wheat;
+	border: 10px solid red;
+	border-radius: 10px;
+	margin-left: 40%
+}
+.text {
+	width: 250px;
+	background-color: grey;
+	padding: 1%;
+}
+.byton {
+	margin-top: 5%;
+	margin-left:40%;
+	background-color: yellow;
+	color: green;
+	padding: 2%;
+}
